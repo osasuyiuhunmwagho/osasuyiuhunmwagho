@@ -6,15 +6,15 @@ I'm a student and full-stack developer passionate about building useful apps and
 
 ---
 
-🌱 **Currently Sharpening:**  
-- React  
-- Learning Three.js fora 3D on the web
+🌱 **Currently:**  
+-  Building my startup
+-  ML concepts
 
 ♟️ **When I'm not coding:**  
 - Playing chess  
 - Creating graphic designs  
-- 3D modeling  
-- ACTUAL modelling
+- Volleyball / football
+- modelling
 
 ---
 
