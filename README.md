@@ -19,7 +19,9 @@ I'm a ML & AI student and full-stack developer passionate about building useful 
 ---
 
 **Feel free to reach out:**  
-📧 maynosa165@gmail.com
+LinkedIn🔵: www.linkedin.com/in/osasuyiuhunmwagho
+📧: maynosa165@gmail.com
+
 <!---
 osasuyiuhunmwagho/osasuyiuhunmwagho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
