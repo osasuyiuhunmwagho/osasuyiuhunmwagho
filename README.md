@@ -7,7 +7,7 @@ I'm a ML & AI student and full-stack developer passionate about building useful 
 ---
 
 🌱 **Currently:**  
--  Building my startup
+-  Building REALVICTOR: https://apps.apple.com/ca/app/real-victors/id6771082089
 -  ML concepts
 
 ♟️ **When I'm not building:**  
